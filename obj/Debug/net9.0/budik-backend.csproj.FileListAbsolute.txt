@@ -23,3 +23,8 @@
 /home/divear/Documents/coding/budik-backend/obj/Debug/net9.0/staticwebassets.build.json.cache
 /home/divear/Documents/coding/budik-backend/obj/Debug/net9.0/staticwebassets.development.json
 /home/divear/Documents/coding/budik-backend/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/divear/Documents/coding/budik-backend/bin/Debug/net9.0/MySqlConnector.dll
+/home/divear/Documents/coding/budik-backend/obj/Debug/net9.0/budik-backend.csproj.AssemblyReference.cache
+/home/divear/Documents/coding/budik-backend/obj/Debug/net9.0/budik-ba.181AAF1E.Up2Date
+/home/divear/Documents/coding/budik-backend/bin/Debug/net9.0/DotNetEnv.dll
+/home/divear/Documents/coding/budik-backend/bin/Debug/net9.0/Superpower.dll

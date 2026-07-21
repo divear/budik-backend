@@ -43,6 +43,16 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "DotNetEnv": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.6.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
