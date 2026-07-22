@@ -7,7 +7,7 @@ DotNetEnv.Env.Load();
 
 // Retrieve the connection string from the environment, falling back if missing
 var connectionString = Environment.GetEnvironmentVariable("MYSQL_CONNECTION_STRING")
-    ?? "Server=localhost;Port=3306;Database=mydb;User=budik_user;Password=a_good_password991838;";
+    ?? "Server=localhost;Port=3306;Database=alarms;User=root;Password=;";
 
 builder.Services.AddScoped(_ => new MySqlConnection(connectionString));
 
