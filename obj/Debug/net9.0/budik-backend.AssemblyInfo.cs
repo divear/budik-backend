@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("budik-backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74e275512374c588eb51afdc692425e5806dcd13")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+221ccdd816ed0097bc5e7a83d1597aaf7925136a")]
 [assembly: System.Reflection.AssemblyProductAttribute("budik-backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("budik-backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

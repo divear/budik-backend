@@ -28,3 +28,4 @@
 /home/divear/Documents/coding/budik-backend/obj/Debug/net9.0/budik-ba.181AAF1E.Up2Date
 /home/divear/Documents/coding/budik-backend/bin/Debug/net9.0/DotNetEnv.dll
 /home/divear/Documents/coding/budik-backend/bin/Debug/net9.0/Superpower.dll
+/home/divear/Documents/coding/budik-backend/obj/Debug/net9.0/budik-backend.sourcelink.json
