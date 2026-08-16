@@ -1,4 +1,5 @@
-﻿using MySqlConnector;
+﻿
+sing MySqlConnector;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +12,7 @@ builder.Services.AddScoped(_ => new MySqlConnection(connectionString));
 
 var app = builder.Build();
 
+app.MapGet("/", () => Results.Ok("Budik API is running"));
 // ----------------------------------------------------
 // 1. GET ALL ALARMS: /api/alarms
 // ----------------------------------------------------
