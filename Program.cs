@@ -1,5 +1,4 @@
-﻿
-sing MySqlConnector;
+﻿using MySqlConnector;
 
 var builder = WebApplication.CreateBuilder(args);
 
